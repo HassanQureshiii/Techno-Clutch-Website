@@ -8,7 +8,7 @@ meta_Description: One of the most amazing and helpful web portals for most
   Minecraft players is Aka MS Remoteconnect. This web portal not only allows
   them via their Microsoft
 url: how-to-fix-this-https-aka-ms-remoteconnect-error
-author: Gabriel
+author: Hassan Hifz
 date: 2021-11-25T15:09:03.577Z
 updateDate: 2021-11-25T15:09:03.628Z
 featured_Image: /uploads/how-to-fix-aka-ms-remote.webp
