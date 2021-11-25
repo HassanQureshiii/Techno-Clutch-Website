@@ -43,7 +43,7 @@ These are some simple issues that you can solve through simple and most convenie
 
 The most obvious issue with a gaming mouse is that its batteries are quickly worn out as compared to a regular mouse. Although, if you have rechargeable batteries, you must still prepare yourself to face the degradation of the battery’s quality over time and its inability to hold the charge for a longer period. In such cases, you can consider replacing your batteries with new ones.
 
-![replace battery](https://technoclutch.com/img/replace-mouse-battery.png)
+![replace battery](/uploads/replace-mouse-battery.png "replace battery")
 
 This is such a simple solution, and yet we take it for granted. So, during an intense gaming round, when your batteries loosen up, take them out and put them back.
 
@@ -69,7 +69,7 @@ Despite the fact that cleaning can effectively help you solve the issue. However
 
 ### Make a Direct Connection with a USB Port
 
-![Change usb ports](https://technoclutch.com/img/change-usb-ports.png "Change usb ports")
+![Change usb ports](/uploads/change-usb-ports.png "Change usb ports")
 
 You might face the software not detecting mouse issues if you are using an external USB hub or a multi-card reader. The most obvious reason for this is that the gaming system/software cannot always detect a device that is connected to it via a third medium.
 
@@ -83,7 +83,7 @@ With some mice, using a mouse pad might help, while some surfaces need to be cha
 
 ### Drivers Update 
 
-![Update Drivers](https://technoclutch.com/img/update-drivers.png "Try to update mouse drivers")
+![Update Drivers](/uploads/update-drivers.png "Update Drivers")
 
 If, after trying several things, your mouse still isn’t working, your mouse then may need an update for its drivers. You can directly reach out to the manufacturer’s website to check out any updates available there, or even you can use a tool to check the available updates for your gaming mouse.
 
