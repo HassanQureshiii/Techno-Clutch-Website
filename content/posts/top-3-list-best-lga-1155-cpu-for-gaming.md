@@ -112,7 +112,7 @@ the_products:
       - pro: "Supports all types of heavy gaming "
     cons:
       - con: A bit expensive
-  - name: Intel Core i7-3770 Quad-Core Processor
+  - name: 2. Intel Core i7-3770 Quad-Core Processor
     nameForTOC: Intel Core i7-3770
     image: /uploads/intel-core-i7-3770.webp
     amzlink: https://amzn.to/3xB4Hoc
@@ -147,7 +147,7 @@ the_products:
     specifications:
       - specification: "**Brand:** Intel **\\| CPU Model:** Core i7 **\\| CPU Speed:**
           3.4 GHz **\\| Secondary Cache:** 8 MB"
-  - name: Intel Core i5-3470 Quad-Core Processor
+  - name: 3. Intel Core i5-3470 Quad-Core Processor
     nameForTOC: Intel Core i5-3470
     image: /uploads/intel-core-i5-3470-quad-core-processor.webp
     amzlink: https://amzn.to/3vN21CB
