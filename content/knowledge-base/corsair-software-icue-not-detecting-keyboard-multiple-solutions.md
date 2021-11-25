@@ -6,7 +6,7 @@ trending: false
 seo_title: Corsair ICUE Not Detecting Keyboard [ Solved ]
 meta_Description: Corsair ICUE May not detect your keyboard, But its nothing to
   worry about. Same happened with us but we came back with a solution.
-author: Gabriel
+author: Hassan Hifz
 date: 2021-11-25T15:15:02.999Z
 updateDate: 2021-11-25T15:15:03.014Z
 featured_Image: /uploads/icue-not-detecting-keyboard.webp
