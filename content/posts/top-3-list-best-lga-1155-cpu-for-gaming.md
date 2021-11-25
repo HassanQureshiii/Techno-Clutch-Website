@@ -69,6 +69,8 @@ buyingGuide: >-
 
 
   ***Note: To keep your CPU functioning at high speed and greater efficiency, if it does not come with a cooling system, then you should install one.***
+product_Summary: Best LGA 1155 CPU for Gaming - Summary
+product_Mheading: Best LGA 1155 CPU for Gaming Reviews
 the_products:
   - name: 1. Intel Core i7-3770K
     nameForTOC: Intel Core i7-3770K
