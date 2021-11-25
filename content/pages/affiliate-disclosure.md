@@ -46,5 +46,3 @@ I do not write sponsored posts. I want to provide authentic, un-biased informati
 The bottom line is that I only recommend products I use myself or that I would recommend to family and friends.
 
 Your purchase helps support my research efforts. Thank you very, very much! I appreciate you!
-
-*This Disclosure is adapted from BrainProTips.*
