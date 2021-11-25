@@ -2,15 +2,10 @@
 title: About Us
 type: pages
 draft: false
-seo_title: About Us - Gaming Techies
-meta_Description: Gaming Techies is all about finding the best gaming products
-  and their reviews. we list top 10 products in a form of a table with a deep
-  review with pros and cons.
+seo_title: About Techno Clutch - Techno Clutch
+meta_Description: Everything you need to know about our website. You can reach
+  out to us using contact form.
 url: about-us
 date: 2021-11-10T13:20:13.894Z
 ---
-Gaming techies is an online website that covers all the topics relevant to the gaming world. This website provides you all the information, reviews, and news about the world's most leading gaming techs that you can use to upgrade your gameplay. Not every tech is worthy of purchase, and not every tech is worth considering trash. All you need to have is a complete knowledge about the gaming world to avoid making any regretful decision regarding any purchase.
-
-To help you out in this, gaming techies have worked really hard to compile all the useful information. Based on the personal reviews of all the authentic buyers, the list of articles that is purely authentic will surely help you a lot. After going through each review and other articles, you will not feel any trouble making the choice of buying the best compatible gaming tech around the globe.
-
-While we are here with the most amazing tips for you to handle all your gaming worries, we need your trust and support that can add much to our confidence to help you reach out to the best ever things in the world.
+Techno Clutch is a website that provides you all the information relevant to the tech world. Considering the mouse to keyboards and motherboards, it covers them all. With us, you will find honest reviews, feature tables, comparison lists, buying guides, and even informational articles about the items of your choice. Whatever the product you are interested in related to the tech, you can reach out to our website and get the most relevant, precise, and yet authentic information about each one of them. Our website makes it easy for you to make a choice about any product and help you be completely satisfied with it by giving you a piece of detailed and descriptive information about it. If you want the best motherboard you can reach out to us, if you want some best suggestion about the PC case, you can get to us, if you want a thermal paste you get to reach out to use for the suggestion. So, whatever may your need be, you can still look up to us and you will find our website professionally helping.
