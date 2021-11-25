@@ -2,7 +2,7 @@
 title: "Contact Us "
 type: pages
 draft: false
-seo_title: Contact Us - Gaming Techies
+seo_title: Contact Us - Techno Clutch
 meta_Description: Feel free to contact us anytime or about anything, we are due
   with your debate. Our support team is always ready to help our audience, and
   whosoever.
