@@ -12,7 +12,7 @@ date: 2021-11-26T21:34:54.824Z
 updateDate: 2021-11-26T21:34:54.855Z
 featured_Image: /uploads/best-thermal-paste-for-ryzen-processors.webp
 categories:
-  - Knowledge Base
+  - Buying Guides
 product_table: true
 top3_table: true
 paragraphs:
