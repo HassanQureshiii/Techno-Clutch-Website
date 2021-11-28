@@ -159,12 +159,195 @@ the_products:
 
           <!--EndFragment-->
   - name: AMD Radeon RX 6800 XT Graphics
+    image: /uploads/amd-radeon-rx-6800-xt-graphics.webp
+    paragraphs:
+      - paragraph: >-
+          <!--StartFragment-->
+
+
+          Instead of the previously utilized very loud blower-style cooling system, the 6800 XT now uses axial cooling. This means that the three fans on the card's bottom suck in air to cool the card, which is then discharged out the side into the rest of your PC Casing.
+
+
+          There's a huge red Radeon symbol on the side, which also lights red when plugged in.
+
+
+          For the 6800 XT, AMD recommends a 750W power supply. However, because AMD's card consumes up to 300 watts, it helps to reduce environmental and power cost implications.
+
+
+          We've also found that the 6800 XT now operates at about 77 degrees Celsius, which is a significant improvement.
+
+
+          The RX 6800XT is designed for 4K gaming systems, but it is also cheap for most typical gamers. This GPU is just marginally less expensive than the RTX 3080, which makes it an appealing option is performed. 
+
+
+          But, more crucially, AMD finally introduced what it had lacked compared to Nvidia: ray tracing. It is currently included with the 6000s series of graphics cards and other valuable capabilities such as variable-rate shading, intelligent access memory, and supersampling.
+
+
+          Furthermore, the RX 6800 XT includes Radeon Boost, a software function that enhances in-game performance when in motion by dynamically lowering render resolution. When there is no more movement, the resolution scales back up without your knowledge. 
+
+
+          In certain games, this functionality can result in considerable frame rate increases. However, bear in mind that not all games support this feature, so you should frequently check the list for driver updates.
+
+
+          Overall, the RX 6800 XT is a decent 4K-capable alternative to the RTX 3080, and it will benefit from working alongside the Ryzen 9 5900X thanks to AMD's hardware improvements.
+
+
+          <!--EndFragment-->
+    pros:
+      - pro: Great for 1440p or 4K gaming
+      - pro: 16GB of memory
+      - pro: Strong DX11 performance
+      - pro: Cheaper than RTX 3080
+      - pro: Good Build
+      - pro: Lots of overclocking headroom
+    cons:
+      - con: 750W power supply requirement
+      - con: Runs hotter than most GPUs
+      - con: No answer to Nvidia's DLSS
+      - con: Fans can run loud
+    specifications:
+      - specification: |-
+          **Stream Processors:**	4,608
+          **Base/Boost Clock:**	2015 MHz/2250 MHz
+          **Memory:**	16 GB GDDR6
+          **Memory Clock:**	16Gbps
+          **Power Connectors:**	2x PCIe 8-pin
+          **Outputs:**	1x HDMI 2.1 VRR and FRL, 2x DisplayPort 1.4a
+    amzlink: https://amzn.to/3xTgOO7
   - name: AMD Radeon RX 6900 XT Graphics
+    image: /uploads/amd-radeon-rx-6900-xt-graphics.webp
+    amzlink: https://amzn.to/3BpkOb2
+    specifications:
+      - specification: |-
+          **Stream Processors:**	5,120
+          **Base/Boost Clock:**	2015 MHz/2250 MHz
+          **Memory:**	16 GB GDDR6
+          **Memory Clock:**	16Gbps
+    pros:
+      - pro: It's tranquil.
+      - pro: Designed for overclocking.
+      - pro: Power efficiency that is unrivaled in the world.
+      - pro: Idle Fan Stop.
+      - pro: Beautiful appearance.
+    cons:
+      - con: Performance in older titles is hampered by DX11 overhead
+      - con: There is no DLSS-like technology from the start.
+      - con: Significantly more costly than the RTX 3080 for little performance gains.
+    paragraphs:
+      - paragraph: >-
+          <!--StartFragment-->
+
+
+          When it comes to capabilities like ray tracing and AI-based super sampling, NVIDIA GPUs presently has the upper hand. The 6900 XT, on the other hand, has a few advancements to show off; let's see what this beast has to offer.
+
+
+          The fans have the distinctive "R" emblem and are housed in a brilliant silver metal frame. On top, there is a red trim that spans the length of the card and an RGB Radeon logo. The Radeon logo lights red by default, but you may change the color using a CoolerMaster RGB LED tool.
+
+
+          We have two DisplayPort 1.4 outs, one HDMI 2.1 out, and a USB Type-C with DisplayPort on the back. It's great to see AMD include a USB Type-C connector.
+
+
+          According to AMD, the new 6900 XT, like the other GPUs in the 6000s series, is built on the RDNA 2 architecture and will deliver up to 65 percent greater performance per Watt than its predecessor. 
+
+
+          This massive performance improvement provides us with a lot of power without requiring an unmanageable or expensive power source. AMD appears to have taken a well-balanced approach to design with the 6900 XT, and it will undoubtedly be an excellent alternative for gamers who choose the Ryzen 9 5900X.
+
+
+          But technological specifications aren't everything. Fortunately, AMD has caught up to Nvidia's software advancements, adding their ray-tracing capabilities and intelligent access memory, thus future-proofing its 6000s series of GPUs. 
+
+
+          These new capabilities increase graphic quality while also reducing loading times due to higher data transfer rates between the SSD and GPU. Finally, depending on the game, AMD's Radeon Boost function can dramatically boost frame rates.
+
+
+          Overall, we can't go wrong with the RX 6900 XT, especially when combined with an AMD processor like the Ryzen 9 5900X.
+
+
+          <!--EndFragment-->
   - name: Nvidia Geforce RTX 2070 Super
+    image: /uploads/nvidia-geforce-rtx-2070-super.webp
+    amzlink: https://amzn.to/3BqyiTV
+    paragraphs:
+      - paragraph: >-
+          <!--StartFragment-->
+
+
+          Nvidia RTX 2070 Super is suitable for 2k gaming and rendering for people without a large budget for 4K setups or high-end workstations.
+
+
+          What distinguishes the RTX 2070 Super from other GPUs is that it includes the same software enhancements as the RTX 3000s series. 
+
+
+          In other words, we can use ray tracing, adaptive shading, and supersampling without needing to upgrade to next-generation GPUs. With the release of the RTX 3070, the 2070 Super begins to feel out of place and superfluous. 
+
+
+          The two are virtually the same in price, and because the RTX 3070 is superior, there isn't much need to choose 2070 over it. With that in mind, this GPU may be worth purchasing soon if Nvidia lowers the price.
+
+
+          While the RTX 2060 Super demonstrated to be a more powerful card and finally a befitting step up over the RTX 2060 for the money, the RTX 2070 Super aims to expel the current RTX 2070 completely they sit at the same base price.
+
+
+          Moreover, you get substantially more results for the same money, with even bigger advances once you start talking ray-tracing and DLSS. In conclusion, the RTX 2070 Super is a fantastic investment, and much better if you want to dabble in DLSS and ray-tracing.
+
+
+          <!--EndFragment-->
+    cons:
+      - con: Expensive
+    pros:
+      - pro: Excellent value for money.
+      - pro: Stable overclocking results help it compete with the original RTX 2080.
+      - pro: Future-proofing is ensured with RT and Tensor cores.
+      - pro: It runs quietly.
+    specifications:
+      - specification: |-
+          **Stream Processors:**	2,560
+          **Base/Boost Clock:**	1605 MHz/1770 MHz
+          **Memory:**	 8 GB GDDR6
+          **Memory Clock:**	14Gbps
   - name: Nvidia Geforce RTX 3070
+    image: /uploads/nvidia-geforce-rtx-3070.webp
+    specifications:
+      - specification: |-
+          **Stream Processors:**	5,888
+          **Base/Boost Clock:**	1500 MHz/1730 MHz
+          **Memory:**	8 GB GDDR6
+          **Memory Clock:**	14Gbps
+    amzlink: https://amzn.to/3BqyIJZ
+    pros:
+      - pro: Quite and Cool
+      - pro: Excellent ray tracing performance
+      - pro: Excellent for 1440p gaming
+      - pro: HDMI 2.1 and AV1 decoding are supported
+    cons:
+      - con: A 750W power supply is required.
+      - con: Because of the power restriction, overclocking becomes more difficult.
+      - con: A 12-pin power connection is required.
+    paragraphs:
+      - paragraph: >-
+          <!--StartFragment-->
+
+
+          The RTX 3070's performance and pricing place it at the ideal tipping point for 1440p gaming. The great majority of PC gamers continue to use 1080p screens, and the RTX 3070 provides an upgrade route to 1440p without the high expense of an RTX 3080 and the additional power drain.
+
+
+          Fundamentally, the GeForce RTX 3070 will be comparable to the RTX 3080 and 3090... Except that it doesn't, because changes to core counts and memory speed may all have a substantial influence on performance. It features more cores than the previous model but less memory and bandwidth.
+
+
+          This is one cheap beast, with double the amount of stream processors as its predecessor, the RTX 2070. Furthermore, like the RTX 3080, it supports PCI Express 4.0, as does the Ryzen 9 5900X, making it a tremendous future-proof GPU.
+
+
+          In terms of features, the RTX 3070 is on par with its larger sibling, the 3080. As a result, you'll be able to experience ray tracing, enhanced super sampling, and RTX I/O technologies.
+
+
+          In general, the RTX 3070 runs admirably, even in 4K configurations; however, keep in mind that some games may not run at 60 frames per second on highly high settings. However, given that it is as strong as the RTX 2080 TI for half the price, it is well worth purchasing.
+
+
+          <!--EndFragment-->
   - name: Nvidia Geforce RTX 3080
+    image: /uploads/nvidia-geforce-rtx-3080.webp
   - name: Nvidia Geforce RTX 3090
+    image: /uploads/nvidia-geforce-rtx-3090.webp
   - name: SAPPHIRE NITRO+ Radeon RX 6800
+    image: /uploads/sapphire-nitro-radeon-rx-6800.webp
 faqs:
   - question: Is Ryzen 9 5900X suitable for gaming?
     answer: >-
