@@ -344,10 +344,154 @@ the_products:
           <!--EndFragment-->
   - name: Nvidia Geforce RTX 3080
     image: /uploads/nvidia-geforce-rtx-3080.webp
+    amzlink: https://amzn.to/2UXL7oe
+    specifications:
+      - specification: |-
+          **Stream Processors:**	8,704
+          **Base/Boost Clock:**	1440 MHz/1710 MHz
+          **Memory:**	10 GB GDDR6X
+          **Memory Clock:**	19Gbps
+    paragraphs:
+      - paragraph: >-
+          <!--StartFragment-->
+
+
+          The GPU is stronger than the RTX 3080 but slightly slower than the 3090 founders edition, yet it sits precisely between the two and offers outstanding overall performance. If you desire anything excellent, this is the route to take.
+
+
+          The RTX 3080 Ti has the same weight and size as the original RTX 3080. The RTX 3080 Ti has two fans, one on the front and one on the back, much like the RTX 3080.
+
+
+          The fan arrangement draws air from the front of the card and out from the back and blasting hot air through the top of your case.
+
+
+          But, remarkably, Nvidia could get so close in thermals, especially because it reduced the cooler back down to a dual-slot design.
+
+
+          The RTX 3080 Ti, like the rest of the Nvidia GeForce RTX 30 series, is built on the Nvidia Amp technology and delivers the same advancements as the rest of the range.
+
+
+          If you're putting together a gaming PC and want a card that will blow you away, this is it. For example, you will get outstanding 4K performance without a glitch; this GPU delivers and does a wonderful job at it. So, to begin with, you won't have to be too concerned.
+
+
+          You'll also have access to Nvidia's whole software package functions, which isn't only for gaming. We're still smitten with Nvidia Broadcasting, purportedly meant for streamers and video makers, but we find it very helpful in everyday life.
+
+
+          Finally, the RTX 3080Ti comes with a set of tools that may be used for purposes other than gaming. With the increased number of streamers, there is a need for improved streaming technology and quality, and this GPU is here to provide that with its Nvidia Broadcast function. 
+
+
+          This software enhances the stream's quality by using AI to eliminate background noise and replace your natural background with the game's background.
+
+
+          In conlusion, you can't go wrong with the RTX 3080 for HD or 4K gaming, and the capabilities it has are also handy for workstations.
+
+
+          <!--EndFragment-->
+    cons:
+      - con: There is no USB-C port in the Founders Edition 
+      - con: When under load, it may get rather loud
+      - con: Extremely power-hungry
+      - con: Long-term, 10GB of VRAM capacity may not be sufficient for 4K
+    pros:
+      - pro: Enough power for ray tracing and 4K games
+      - pro: 2x 8-pin to new 12-pin power converters are included
+      - pro: DLSS has improved
+      - pro: Cooler design that is both beautiful and efficient 
   - name: Nvidia Geforce RTX 3090
     image: /uploads/nvidia-geforce-rtx-3090.webp
+    specifications:
+      - specification: |-
+          **Stream Processors:**	10,496
+          **Memory:**	24 GB GDDR6X
+          **Memory Clock:**	19.5Gbps
+          **Base/Boost Clock:**	1400 MHz/1700 MHz
+    pros:
+      - pro: For professionals, this is an incredible deal
+      - pro: 8K gaming is now possible thanks to HDMI 2.1 and AV1 decoding
+      - pro: A Superb gameplay performance
+      - pro: "Cooling to the max "
+      - pro: "The process is quiet "
+    cons:
+      - con: The RTX 3080 is close behind
+      - con: Extremely costly
+      - con: Card with three slots
+    paragraphs:
+      - paragraph: >-
+          <!--StartFragment-->
+
+
+          The RTX 3090 is a massive GPU; this card is physically enormous, with an equally big heatsink, and is designed for 4K and 8K gaming and high 3D rendering performance for workstations that are in mind when choosing your case and motherboard.
+
+
+          While the base and boost clock frequencies are virtually comparable to the RTX 3080, this GPU has 24 GB of GDDR6X memory on a 384-bit bus and over 10,500 CUDA cores.
+
+
+          This is a considerable boost, but the card is quite expensive, but nowhere like the previous RTX Titan. This GPU is aimed at professional 3D modelers and game enthusiasts with significant wallets. 
+
+
+          The RTX 3090 is certainly overkilled for most gamers, while the RTX 3080 is more than adequate. The price difference may not always warrant the additional performance increase.
+
+
+          While the RTX 3090 is a beast in terms of physical specifications, its usefulness, like the whole 3000 series, is improved by software. It has all the bells and whistles, including ray tracing, RTX I/O, and supersampling. 
+
+
+          On the flip side, this means we'll have to speak about how much electricity it needs to run. According to Nvidia, a 750W power supply is sufficient, although this is highly questionable. 
+
+
+          If we operate the 3090 to its full potential, it will use slightly more than 350W on its own. A strong CPU and other gadgets would undoubtedly push a 750W power supply to its maximum. So, if you're interested in this card, a 900 to 1000W power supply would be your best choice.
+
+
+          In essence, the RTX 3090 is designed for fans rather than regular gamers. Even if you're interested in 8K gaming, bear in mind that there aren't many 8k displays available right now.
+
+
+          <!--EndFragment-->
+    amzlink: https://amzn.to/3wQIQbG
   - name: SAPPHIRE NITRO+ Radeon RX 6800
     image: /uploads/sapphire-nitro-radeon-rx-6800.webp
+    specifications:
+      - specification: |-
+          **Stream Processors:**	3840 Infinity
+          **Cache:**	128MB
+          **Memory Clock:**	16 Gbps
+          **Effective Displays:**	Maximum 4 Displays
+          **Ray Accelerators:**	60
+          **Memory Size/Bus:**	16GB GDDR6
+    pros:
+      - pro: Overclocking potential is relatively high
+      - pro: Temperatures are lower than on the Radeon RX 6800 XT
+      - pro: A slew of new features to experiment with
+    cons:
+      - con: With AAA heritage games, the outcomes are subpar.
+      - con: Support for ray-tracing is limited.
+      - con: Expensive in comparison to Nvidia competitors.
+    paragraphs:
+      - paragraph: >-
+          <!--StartFragment-->
+
+
+          This new NITRO+ card design is identical to previous versions, with three big fans mounted on a massive heatsink.
+
+
+          The design is quite modest until you come to the RGB light strip along the upper portion of the cooler, as well as a lit logo on the backboard. A pair of conventional 8-pin PCIe connections supply power, while display outputs include three DisplayPort and one HDMI.
+
+
+          SAPPHIRE's NITRO+ Radeon RX 6800 is factory overclocked and is housed in a triple-fan, 2.7-slot configuration. The card has some OC headroom for manual OC tuning, which I've documented in this review. 
+
+
+          You may see some side-by-side comparisons of the SAPPHIRE NITRO+ Radeon RX 6800 at stock and with the card's highest overclock.
+
+
+          The Ray Accelerator, a high-performance ray-tracing acceleration system, is one of the most significant new additions to the new RDNA 2 architecture. AMD doesn't have NVIDIA-level ray tracing performance, but RDNA 2 does.
+
+
+          Sapphire's NITRO+ version of AMD's Radeon RX 6800 delivers excellent performance, ARGB-infused aesthetics, and minimal noise right out of the box.
+
+
+          The efficient cooling architecture allows for somewhat lower thermals than we saw with AMD's standard design with a conservative default profile, and some fast fan curve tuning can result in even lower temperatures under load.
+
+
+          <!--EndFragment-->
+    amzlink: https://amzn.to/2VTfHj6
 faqs:
   - question: Is Ryzen 9 5900X suitable for gaming?
     answer: >-
