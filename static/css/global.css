@@ -217,7 +217,7 @@ img.logo {
     display: none;
     position: absolute;
     padding-bottom: 1rem;
-    background: var(--mainColor);
+    background: #feb033;
 }
 
 .has-submenu {
@@ -817,10 +817,6 @@ td a {
     margin-bottom: 1rem
 }
 
-.pros-and-cons .cons>p:last-child {
-    margin-bottom: 0
-}
-
 p:empty {
     display: none
 }
@@ -986,12 +982,6 @@ footer p {
     font-size: .8rem
 }
 
-.page .btn-teal {
-    color: #fff;
-    border: 1px solid var(--mainColor);
-    background-color: var(--mainColor)
-}
-
 .page .btn, .page a[type=button] {
     padding: .5rem;
     min-width: 8.4rem;
@@ -1142,7 +1132,8 @@ footer p {
 }
 
 .sidebar-container .f6.truncate-2.mb2.mt0 {
-    font-size: 16px
+    font-size: 16px;
+	border-bottom: 3px solid #2871de;
 }
 
 .news-article strong {
@@ -1477,10 +1468,6 @@ ul.table-of-contents li a{
     line-height: 50px
 }
 
-.trending-item {
-    margin: 0 10px;
-}
-
 /* Trending Bar End */
 
 .ez-homepage-section{
@@ -1581,12 +1568,18 @@ ul.table-of-contents li a{
 
 /* Sayim CSS Here */
 
+.page .btn-teal {
+    color: #fff;
+    border: 1px solid #333;
+    background-color: #333;
+}
+
 .menu-item>a:hover, .sub-menu-item>a:hover {
     border-bottom: 2px solid #000;
 }
 
-.trending-item{
-	display: inline-block;
+.trending-item {
+    margin: 0 8px;
 }
 
 .specs__text{
