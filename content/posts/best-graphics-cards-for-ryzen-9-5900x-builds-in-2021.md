@@ -7,7 +7,7 @@ seo_title: Best Graphics Cards for Ryzen 9 5900x in 2021
 meta_Description: Finding the best matching gpu for your Ryzen pc is not an easy
   job. Having hundreds of options available makes it more difficult.
 url: best-graphics-card-for-ryzen-9-5900x
-author: Author
+author: Hassan Hifz
 date: 2021-07-23T11:13:00.000Z
 updateDate: 2021-11-28T16:10:53.056Z
 featured_Image: /uploads/best-gpu-for-ryzen-9-5900x.webp
