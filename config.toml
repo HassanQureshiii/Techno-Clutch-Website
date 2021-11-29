@@ -1,8 +1,8 @@
 languageCode = "en-us"
-DisqusShortname = "gaming-techies"
-baseURL = "https://gamingtechies.com"
+DisqusShortname = ""
+baseURL = "https://technoclutchdev.netlify.app"
 googleAnalytics = ""
-title = "Gaming Techies"
+title = "Techno Clutch"
 paginate = "14"
 assetDir = "static"
 
