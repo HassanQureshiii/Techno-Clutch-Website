@@ -119,16 +119,9 @@ the_products:
     image: /uploads/nvidia-rtx-3060-ti.webp
     amzlink: https://amzn.to/37o9e21
     specifications:
-      - specification: |-
-          **Bus Standard:**	PCI Express 4.0
-
-           **Video Memory:**	8GB GDDR6
-
-           **Memory Interface:**	256-bit Power
-
-           **Connectors:**	1 x 8-pin
-
-           **Maximum Display Support:**	4
+      - specification: "**Bus Standard:** PCI Express 4.0 **\\|** **Video Memory:** 8GB
+          GDDR6 **\\|** **Memory Interface:** 256-bit Power **\\| Connectors:**
+          1 x 8-pin **\\|** **Maximum Display Support:** 4"
     pros:
       - pro: Great mid-range 1440p graphics performance
       - pro: Good design.
@@ -206,23 +199,18 @@ the_products:
       - con: No answer to Nvidia's DLSS
       - con: Fans can run loud
     specifications:
-      - specification: |-
-          **Stream Processors:**	4,608
-          **Base/Boost Clock:**	2015 MHz/2250 MHz
-          **Memory:**	16 GB GDDR6
-          **Memory Clock:**	16Gbps
-          **Power Connectors:**	2x PCIe 8-pin
-          **Outputs:**	1x HDMI 2.1 VRR and FRL, 2x DisplayPort 1.4a
+      - specification: "**Stream Processors:** 4,608 **\\| Base/Boost Clock:** 2015
+          MHz/2250 MHz **\\|** **Memory:** 16 GB GDDR6 **\\|** **Memory Clock:**
+          16Gbps **\\|** **Power Connectors:** 2x PCIe 8-pin **\\|**
+          **Outputs:** 1x HDMI 2.1 VRR and FRL, 2x DisplayPort 1.4a"
     amzlink: https://amzn.to/3xTgOO7
   - name: AMD Radeon RX 6900 XT Graphics
     image: /uploads/amd-radeon-rx-6900-xt-graphics.webp
     amzlink: https://amzn.to/3BpkOb2
     specifications:
-      - specification: |-
-          **Stream Processors:**	5,120
-          **Base/Boost Clock:**	2015 MHz/2250 MHz
-          **Memory:**	16 GB GDDR6
-          **Memory Clock:**	16Gbps
+      - specification: "**Stream Processors:** 5,120 **\\|** **Base/Boost Clock:** 2015
+          MHz/2250 MHz **\\|** **Memory:** 16 GB GDDR6 **\\| Memory Clock:**
+          16Gbps"
     pros:
       - pro: It's tranquil.
       - pro: Designed for overclocking.
@@ -298,19 +286,15 @@ the_products:
       - pro: Future-proofing is ensured with RT and Tensor cores.
       - pro: It runs quietly.
     specifications:
-      - specification: |-
-          **Stream Processors:**	2,560
-          **Base/Boost Clock:**	1605 MHz/1770 MHz
-          **Memory:**	 8 GB GDDR6
-          **Memory Clock:**	14Gbps
+      - specification: "**Stream Processors:** 2,560 **\\|** **Base/Boost Clock:** 1605
+          MHz/1770 MHz **\\|** **Memory:** 8 GB GDDR6 **\\|** **Memory Clock:**
+          14Gbps"
   - name: Nvidia Geforce RTX 3070
     image: /uploads/nvidia-geforce-rtx-3070.webp
     specifications:
-      - specification: |-
-          **Stream Processors:**	5,888
-          **Base/Boost Clock:**	1500 MHz/1730 MHz
-          **Memory:**	8 GB GDDR6
-          **Memory Clock:**	14Gbps
+      - specification: "**Stream Processors:** 5,888 **\\|** **Base/Boost Clock:** 1500
+          MHz/1730 MHz **\\|** **Memory:** 8 GB GDDR6 **\\|** **Memory Clock:**
+          14Gbps"
     amzlink: https://amzn.to/3BqyIJZ
     pros:
       - pro: Quite and Cool
@@ -346,11 +330,9 @@ the_products:
     image: /uploads/nvidia-geforce-rtx-3080.webp
     amzlink: https://amzn.to/2UXL7oe
     specifications:
-      - specification: |-
-          **Stream Processors:**	8,704
-          **Base/Boost Clock:**	1440 MHz/1710 MHz
-          **Memory:**	10 GB GDDR6X
-          **Memory Clock:**	19Gbps
+      - specification: "**Stream Processors:** 8,704 **\\| Base/Boost Clock:** 1440
+          MHz/1710 MHz **\\|** **Memory:** 10 GB GDDR6X **\\|** **Memory
+          Clock:** 19Gbps"
     paragraphs:
       - paragraph: >-
           <!--StartFragment-->
