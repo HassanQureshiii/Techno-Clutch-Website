@@ -2,9 +2,9 @@ blogSection = false
 logo = "/uploads/logo.png"
 icon = "/uploads/fav_icon.png"
 tagline = "Best Techs Reviewed"
-contacteMail = ""
-headerText = "Techno Clutch is supported by its audience. When you purchase through our links, we may earn an affiliate commission at no additional cost to you."
-footerText = "Techno Clutch is supported by its audience. When you purchase through our links, we may earn an affiliate commission at no additional cost to you."
+contacteMail = "gamingtechies76@gmail.com"
+headerText = "Techno Clutch supported by its audience. When you purchase through our links, we may earn an affiliate commission at no additional cost to you."
+footerText = "Techno Clutch supported by its audience. When you purchase through our links, we may earn an affiliate commission at no additional cost to you."
 img_section = []
 
 [fonts]
@@ -31,13 +31,13 @@ ctaColor = "#2871de"
 catIndex = false
 
 [open_graph]
-meta_Description = "Gaming Techies is a professional online website that keeps you updated with all the gaming techs reviews, news and latest information."
-image = "/uploads/banner_image.png"
+meta_Description = "Techno Clutch is a Brand where we review hundreds of computer gadgets weekly and publish only the worthy products. We post unbiased reviews only."
+image = ""
 FacebookPublisher = ""
 
 [verifications]
-googleSiteVerify = ""
-BingWebmaster = ""
+googleSiteVerify = "<meta name=\"google-site-verification\" content=\"Zf3bwzwyh0LsAxEEJ6l0pyyJ2ljDK4wG-f1sGwnJXYs\" />"
+BingWebmaster = "<meta name=\"msvalidate.01\" content=\"6D95BEBC76C7BC692B270BC832560CB0\" />"
 PinterestVerify = ""
 
 [social_accounts]
@@ -48,9 +48,10 @@ sitepinterestAccount = ""
 siteYouTubeAccount = ""
 
 [[scroll_section]]
-scrollcat = "Knowledge Base"
+scrollcat = "Buying Guides"
 
 [[scroll_section]]
+scrollcat = "Knowledge Base"
 
 [post_setting]
 featured_img = false
