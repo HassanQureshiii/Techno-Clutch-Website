@@ -349,6 +349,7 @@ the_products:
       - pro: Better support for 7th Gen. processors
     cons:
       - con: Not much rated
+    amzlink: https://technoclutch.com/best-motherboard-for-i7-6700k/#
 conclusion:
   - paragraph: All of the motherboards mentioned above come performing perfectly and
       are made of reliable and durable material that makes them long-living and
