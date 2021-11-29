@@ -1,7 +1,7 @@
 ---
 title: Best Motherboard for i7 6700k - Buyer's Guide & Comparison
 type: posts
-draft: true
+draft: false
 trending: false
 seo_title: 10 Best Motherboards for i7 6700k in 2021
 meta_Description: Weather its Asus, Gigabyte or MSI. Finding the best suitable
