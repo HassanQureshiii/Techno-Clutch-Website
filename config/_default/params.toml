@@ -36,8 +36,8 @@ image = ""
 FacebookPublisher = ""
 
 [verifications]
-googleSiteVerify = "<meta name=\"google-site-verification\" content=\"Zf3bwzwyh0LsAxEEJ6l0pyyJ2ljDK4wG-f1sGwnJXYs\" />"
-BingWebmaster = "<meta name=\"msvalidate.01\" content=\"6D95BEBC76C7BC692B270BC832560CB0\" />"
+googleSiteVerify = ""
+BingWebmaster = ""
 PinterestVerify = ""
 
 [social_accounts]
