@@ -12,7 +12,7 @@ date: 2021-11-26T21:42:37.508Z
 updateDate: 2021-11-26T21:42:37.546Z
 featured_Image: /uploads/best-thermal-pads-for-gpu.webp
 categories:
-  - Knowledge Base
+  - Buying Guides
 product_table: true
 top3_table: true
 paragraphs:
