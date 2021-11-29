@@ -116,7 +116,7 @@ buyingGuide: >-
   Each graphics card will consume a different amount of power. This might be a factor to consider if you have a limited budget.
 product_Mheading: List of best Gpu's to pair with Ryzen 9 5900x
 the_products:
-  - summary_award: zxc
+  - summary_award: ""
     paragraphs:
       - paragraph: >-
           <!--StartFragment-->
@@ -144,7 +144,7 @@ the_products:
       - pro: Its silent and cool
       - pro: Excellent for 1440p gaming.
     amzlink: https://amzn.to/37o9e21
-    nameForTOC: qwe
+    nameForTOC: NVIDIA RTX 3060 Ti
     name: NVIDIA RTX 3060 Ti
     specifications:
       - specification: "**Bus Standard:** PCI Express 4.0 **\\|** **Video Memory:** 8GB
@@ -154,7 +154,7 @@ the_products:
       - con: Inadequate overclocking potential
       - con: Memory capacity of 8GB
     image: /uploads/nvidia-rtx-3060-ti.webp
-    award: asd
+    award: ""
   - name: AMD Radeon RX 6800 XT Graphics
     image: /uploads/amd-radeon-rx-6800-xt-graphics.webp
     paragraphs:
@@ -208,6 +208,7 @@ the_products:
           16Gbps **\\|** **Power Connectors:** 2x PCIe 8-pin **\\|**
           **Outputs:** 1x HDMI 2.1 VRR and FRL, 2x DisplayPort 1.4a"
     amzlink: https://amzn.to/3xTgOO7
+    nameForTOC: Radeon RX 6800 XT
   - name: AMD Radeon RX 6900 XT Graphics
     image: /uploads/amd-radeon-rx-6900-xt-graphics.webp
     amzlink: https://amzn.to/3BpkOb2
@@ -255,6 +256,7 @@ the_products:
 
 
           <!--EndFragment-->
+    nameForTOC: Radeon RX 6900 XT
   - name: Nvidia Geforce RTX 2070 Super
     image: /uploads/nvidia-geforce-rtx-2070-super.webp
     amzlink: https://amzn.to/3BqyiTV
@@ -293,6 +295,7 @@ the_products:
       - specification: "**Stream Processors:** 2,560 **\\|** **Base/Boost Clock:** 1605
           MHz/1770 MHz **\\|** **Memory:** 8 GB GDDR6 **\\|** **Memory Clock:**
           14Gbps"
+    nameForTOC: Geforce RTX 2070 Super
   - name: Nvidia Geforce RTX 3070
     image: /uploads/nvidia-geforce-rtx-3070.webp
     specifications:
@@ -330,6 +333,7 @@ the_products:
 
 
           <!--EndFragment-->
+    nameForTOC: Geforce RTX 3070
   - name: Nvidia Geforce RTX 3080
     image: /uploads/nvidia-geforce-rtx-3080.webp
     amzlink: https://amzn.to/2UXL7oe
@@ -383,6 +387,7 @@ the_products:
       - pro: 2x 8-pin to new 12-pin power converters are included
       - pro: DLSS has improved
       - pro: Cooler design that is both beautiful and efficient 
+    nameForTOC: Geforce RTX 3080
   - name: Nvidia Geforce RTX 3090
     image: /uploads/nvidia-geforce-rtx-3090.webp
     specifications:
@@ -430,7 +435,8 @@ the_products:
 
           <!--EndFragment-->
     amzlink: https://amzn.to/3wQIQbG
-  - name: SAPPHIRE NITRO+ Radeon RX 6800
+    nameForTOC: Geforce RTX 3090
+  - name: Sapphire Nitro + Radeon RX 6800
     image: /uploads/sapphire-nitro-radeon-rx-6800.webp
     specifications:
       - specification: "**Stream Processors:** 3840 Infinity **\\|** **Cache:** 128MB
@@ -473,6 +479,7 @@ the_products:
 
           <!--EndFragment-->
     amzlink: https://amzn.to/2VTfHj6
+    nameForTOC: Sapphire Nitro Radeon RX 6800
 faqs:
   - question: Is Ryzen 9 5900X suitable for gaming?
     answer: >-
