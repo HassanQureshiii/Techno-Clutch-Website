@@ -382,11 +382,9 @@ the_products:
   - name: Nvidia Geforce RTX 3090
     image: /uploads/nvidia-geforce-rtx-3090.webp
     specifications:
-      - specification: |-
-          **Stream Processors:**	10,496
-          **Memory:**	24 GB GDDR6X
-          **Memory Clock:**	19.5Gbps
-          **Base/Boost Clock:**	1400 MHz/1700 MHz
+      - specification: "**Stream Processors:** 10,496 **\\|** **Memory:** 24 GB GDDR6X
+          **\\|** **Memory Clock:** 19.5Gbps **\\|** **Base/Boost Clock:** 1400
+          MHz/1700 MHz"
     pros:
       - pro: For professionals, this is an incredible deal
       - pro: 8K gaming is now possible thanks to HDMI 2.1 and AV1 decoding
@@ -431,13 +429,10 @@ the_products:
   - name: SAPPHIRE NITRO+ Radeon RX 6800
     image: /uploads/sapphire-nitro-radeon-rx-6800.webp
     specifications:
-      - specification: |-
-          **Stream Processors:**	3840 Infinity
-          **Cache:**	128MB
-          **Memory Clock:**	16 Gbps
-          **Effective Displays:**	Maximum 4 Displays
-          **Ray Accelerators:**	60
-          **Memory Size/Bus:**	16GB GDDR6
+      - specification: "**Stream Processors:** 3840 Infinity **\\|** **Cache:** 128MB
+          **\\|** **Memory Clock:** 16 Gbps **\\|** **Effective
+          Displays:**\tMaximum 4 Displays **\\|** **Ray Accelerators:** 60
+          **\\|** **Memory Size/Bus:** 16GB GDDR6"
     pros:
       - pro: Overclocking potential is relatively high
       - pro: Temperatures are lower than on the Radeon RX 6800 XT
