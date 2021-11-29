@@ -67,6 +67,10 @@ the_products:
       - pro: Durable, reliable, best performing
     cons:
       - con: BIOS update is necessary
+    specifications:
+      - specification: "**Brand:** ASUS **\\| Memory storage capacity:** 1024 MB **\\|
+          Memory Slots:** 4 **\\| Total SATA ports:** SATA 3 **\\| RAM Memory
+          Technology:** DDR3 **\\| Number of USB Ports:** 2"
   - name: 2. Asus Prime Z390-A Motherboard
     nameForTOC: Asus Prime Z390-A Motherboard
     paragraphs:
@@ -101,6 +105,11 @@ the_products:
       - con: Not compatible with Win7
     amzlink: https://amzn.to/3i37mCr
     image: /uploads/asus-prime-z390-a-motherboard.webp
+    specifications:
+      - specification: "**Brand:** ASUS **\\| Wireless Type:** 802.11ac **\\| Memory
+          Speed:** 2400 MHz **\\| Item model number:** Prime Z390-A
+          **\\|  Dimensions:** 12.91 x 2.68 x 10.35 inches **\\| Computer Memory
+          Type:** DDR4 SDRAM **\\| Number of USB 2.0 Ports:** 1"
   - name: 3. MSI MPG Z390 Gaming Edge
     nameForTOC: MSI MPG Z390 Gaming Edge
     image: /uploads/msi-mpg-z390.webp
@@ -133,6 +142,10 @@ the_products:
       - pro: "Easy to navigate "
     cons:
       - con: No Cons
+    specifications:
+      - specification: "**Brand:** MSI **\\| RAM Memory Technology:** DDR4 **\\|
+          Platform:** Win10 **\\| Maximum RAM Memory Size:** 64GB **\\| Memory
+          Slots:** 4.0"
   - name: 4. MSI MPG B550 Gaming
     nameForTOC: MSI MPG B550 Gaming
     image: /uploads/msi-mpg-b550.webp
@@ -165,6 +178,10 @@ the_products:
       - pro: "Greater storage capacity "
     cons:
       - con: For Ryzen compatibility, BIOS update is needed
+    specifications:
+      - specification: "**Brand:** MSI **\\| Chipset Type:** AMD B550 **\\| Memory
+          Storage Capacity:** 128 GB **\\| Graphics Card Interface:** PCI-E, PCI
+          **\\| Maximum RAM Memory Size:** 128 GB"
   - name: 5. ASROCK MB B365 PRO4
     nameForTOC: ASROCK MB B365 PRO4
     image: /uploads/asrock-mb-b365-pro4.webp
@@ -194,6 +211,10 @@ the_products:
       - pro: "Strongly built "
     cons:
       - con: No Cons
+    specifications:
+      - specification: "**Brand:** ASROCK MB **\\| Chipset Type:** Intel B365 **\\| RAM
+          Memory Technology:** DDR4 **\\| Maximum Ram Memory Size:** 64 GB **\\|
+          Main Power Connector Type:** 8 pin"
   - name: 6. MSI MEG Z490 Gaming Motherboard
     nameForTOC: MSI MEG Z490 Gaming Motherboard
     image: /uploads/msi-meg-z490.webp
@@ -222,6 +243,10 @@ the_products:
       - pro: Powerful built-up
     cons:
       - con: No significant cons
+    specifications:
+      - specification: "**Brand:** MSI **\\| RAM Memory Technology:** DDR4 **\\| Memory
+          Speed:** 5000 MHz **\\| Memory Storage Capacity:** 128 GB **\\|
+          Maximum RAM Memory Size:** 128 GB"
   - name: 7. GIGABYTE B365M DS3H Motherboard
     nameForTOC: GIGABYTE B365M DS3H
     image: /uploads/gigabyte-b365m-ds3h.webp
@@ -255,6 +280,10 @@ the_products:
       - pro: "Greater memory storage "
     cons:
       - con: Second slot is not good for large video cards
+    specifications:
+      - specification: "**Brand:** GIGABYTE **\\| RAM Memory Technology:** DDR4 **\\|
+          Maximum Memory Speed:** 2666 MHz **\\| RAM Memory Size:** 64 GB **\\|
+          Maximum Memory | Storage Capacity:** 64 GB"
   - name: 8. ASRock Z490M-ITX/ac Motherboard
     nameForTOC: ASRock Z490M-ITX/ac
     image: /uploads/asrock-z490m-itxac.webp
@@ -280,6 +309,10 @@ the_products:
     cons:
       - con: No Major Drawbacks
     amzlink: https://amzn.to/3g3FEmK
+    specifications:
+      - specification: "**Brand:** ASRock **\\| Memory Slots:** 4 **\\| Graphics Card
+          Interface:** PCI-E **\\| Maximum Memory Speed:** 4400 MHz **\\| RAM
+          Memory Technology:** DDR4"
   - name: 9. MSI MAG B550 TOMAHAWK Gaming Motherboard
     nameForTOC: MSI MAG B550 TOMAHAWK
     image: /uploads/msi-mag-b550-tomahawk.webp
@@ -316,6 +349,10 @@ the_products:
       - pro: "Affordable "
     cons:
       - con: BIOS update is needed
+    specifications:
+      - specification: "**Brand:** MSI **\\| Maximum Storage Capacity:** 128 GB **\\|
+          Maxim RAM Memory Size:** 128 GB **\\| Graphics Card Interface:** PCIe
+          **\\| CPU Socket:** AM4 **\\| Total Available Memory Slots:** 4"
 faqs:
   - answer: Yes, it is just like you are buying a building block of your processor.
       A motherboard is the one that connects all the interior together. It is
