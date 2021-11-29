@@ -94,6 +94,10 @@ the_products:
       - pro: "HD gaming audio "
     cons:
       - con: Lesser holes for case screws
+    specifications:
+      - specification: "**Memory Slots Available:** 4.0 **\\| Graphics Card Interface:**
+          PCI-E **\\| RAM Memory Technology:** DDR4 **\\| Total Ports
+          Available:** 25 **\\| Total SATA Ports:** 4"
   - name: 2. GIGABYTE B365M DS3H Motherboard
     nameForTOC: GIGABYTE B365M DS3H Motherboard
     image: /uploads/gigabyte-b365m-ds3h.webp
@@ -120,6 +124,10 @@ the_products:
       - pro: "Quality built-up "
     cons:
       - con: Not fit for 9th Gen. processor
+    specifications:
+      - specification: "**Brand:** Gigabyte **\\| CPU Socket:** LGA 1151 **\\|
+          Platform:** Win8.1/8/10 **\\| RAM Memory Maximum Size:** 64 GB **\\|
+          Memory Storage Capacity:** 64 GB"
   - name: 3. ASUS ROG Maximus IX Extreme LGA1151
     nameForTOC: ASUS ROG Maximus IX Extreme LGA1151
     image: /uploads/ix-extreme-lga1151.webp
@@ -149,6 +157,10 @@ the_products:
     cons:
       - con: "Not so efficient RGB header "
       - con: BIOS update is needed
+    specifications:
+      - specification: "**Brand:** ASUS **\\| Total Display Port:** 1 **\\| Total HDMI
+          Ports:** 1 **\\| Total Number of USB 2.0 Ports:** 4 **\\| BIOS
+          Flashback Buttons:** 1"
   - name: 4. MSI Performance B360 LGA 1151
     nameForTOC: MSI Performance B360 LGA 1151
     image: /uploads/b360-lga-1151.webp
@@ -177,6 +189,10 @@ the_products:
       - pro: "Powerful performance "
     cons:
       - con: Slight USB issue
+    specifications:
+      - specification: "**Brand:** MSI **\\| Total Memory Slots Available:** 4 **\\|
+          Compatibility:** Win10 **\\| RAM Memory Technology:** DDR4 **\\|
+          Platform:** Win10"
   - name: 5. MSI MPG Z390 Gaming Plus LGA1151
     nameForTOC: MSI MPG Z390 Gaming Plus LGA1151
     image: /uploads/msi-mpg-z390.webp
@@ -205,7 +221,10 @@ the_products:
       - pro: Greater speed
       - pro: "Perfect for all online and offline games "
       - pro: "Versatile DDR4 memory channels support "
-    specifications: []
+    specifications:
+      - specification: "**Brand:** MSI **\\| Available USB 2.0 Ports:** 1 **\\| Total
+          Memory Storage Capacity:** 64 GB **\\| Total Memory Speed:** 3466 MHz
+          **\\| RAM Memory Technology:** DDR4"
     cons:
       - con: No Major Drawbacks
     amzlink: https://technoclutch.com/best-motherboard-for-i7-6700k/#
@@ -243,6 +262,10 @@ the_products:
       - pro: "Reliable and durable "
     cons:
       - con: Issues with BIOS access
+    specifications:
+      - specification: "**Brand:** Gigabyte **\\| Compatible: Platform:** Win 7/ 8.1/ 8
+          Pro/ 10 **\\| Maximum Storage Capacity:** 1000 TB **\\| Total Memory
+          Slots:** 4.0 **\\| Graphics Card Interface:** PCI-E"
   - name: 7. GIGABYTE Z390 AORUS PRO
     nameForTOC: GIGABYTE Z390 AORUS PRO
     image: /uploads/z390-aorus.webp
@@ -273,6 +296,10 @@ the_products:
     cons:
       - con: "No so easy to install "
       - con: Software is not so efficient
+    specifications:
+      - specification: "**Brand:** Gigabyte **\\| RAM Memory Technology:** DDR4 **\\|
+          Available Memory Slots:** 4.0 **\\| CPU Socket:** LGA 1151 **\\|
+          Available HDMI Ports:** 1"
   - name: 8. MSI Pro Series Intel B250 LGA
     nameForTOC: MSI Pro Series Intel B250 LGA
     image: /uploads/intel-b250-lga.webp
@@ -298,6 +325,10 @@ the_products:
       - pro: "Impressive design "
     cons:
       - con: BIOS update issue
+    specifications:
+      - specification: "**Brand:** MSI **\\| Maximum Size for RAM Memory:** 64 GB **\\|
+          RAM Memory Technology:** SDRAM **\\| Total Memory Slot:** 4 **\\| USB
+          2.0 Ports:** 2"
   - name: 9. ASUS Prime B450M-A Motherboard DDR4
     nameForTOC: ASUS Prime B450M-A Motherboard DDR4
     image: /uploads/prime-b450m-a.webp
@@ -323,6 +354,10 @@ the_products:
     cons:
       - con: No significant cons
     amzlink: https://technoclutch.com/best-motherboard-for-i7-6700k/#
+    specifications:
+      - specification: "**Brand:** ASUS **\\| RAM Size:** 32 GB **\\| Total Memory
+          Storage Capacity:** 64 GB **\\| Graphics Card Interface:** PCI-E **\\|
+          Chipset Type:** AMD B450"
   - name: 10. ECS Elitegroup A320AM4-M3D
     nameForTOC: ECS Elitegroup A320AM4-M3D
     image: /uploads/a320am4-m3d.webp
@@ -350,6 +385,10 @@ the_products:
     cons:
       - con: Not much rated
     amzlink: https://technoclutch.com/best-motherboard-for-i7-6700k/#
+    specifications:
+      - specification: "**Brand:** ECS **\\| Elitegroup Available Memory Slots:** 2.0
+          **\\| Total Number of Ports:** 6 **\\|  Storage Capacity:** 32 GB
+          **\\| Maximum RAM Memory:** 32 GB"
 conclusion:
   - paragraph: All of the motherboards mentioned above come performing perfectly and
       are made of reliable and durable material that makes them long-living and
