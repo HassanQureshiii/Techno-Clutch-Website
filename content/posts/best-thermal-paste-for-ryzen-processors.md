@@ -7,7 +7,7 @@ seo_title: Best Thermal Paste For Ryzen CPU
 meta_Description: Processor should be taken care of. Thermal paste can do
   wonders on negative side too. Make sure to pick only suitable one.
 url: best-thermal-paste-for-ryzen-processors
-author: Hassan Hifz
+author: Author
 date: 2021-11-26T21:34:54.824Z
 updateDate: 2021-11-26T21:34:54.855Z
 featured_Image: /uploads/best-thermal-paste-for-ryzen-processors.webp
