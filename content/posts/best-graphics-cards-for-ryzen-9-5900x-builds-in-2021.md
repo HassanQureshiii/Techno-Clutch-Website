@@ -114,6 +114,7 @@ buyingGuide: >-
 
 
   Each graphics card will consume a different amount of power. This might be a factor to consider if you have a limited budget.
+product_Mheading: List of best Gpu's to pair with Ryzen 9 5900x
 the_products:
   - name: NVIDIA RTX 3060 Ti
     image: /uploads/nvidia-rtx-3060-ti.webp
