@@ -116,21 +116,7 @@ buyingGuide: >-
   Each graphics card will consume a different amount of power. This might be a factor to consider if you have a limited budget.
 product_Mheading: List of best Gpu's to pair with Ryzen 9 5900x
 the_products:
-  - name: NVIDIA RTX 3060 Ti
-    image: /uploads/nvidia-rtx-3060-ti.webp
-    amzlink: https://amzn.to/37o9e21
-    specifications:
-      - specification: "**Bus Standard:** PCI Express 4.0 **\\|** **Video Memory:** 8GB
-          GDDR6 **\\|** **Memory Interface:** 256-bit Power **\\| Connectors:**
-          1 x 8-pin **\\|** **Maximum Display Support:** 4"
-    pros:
-      - pro: Great mid-range 1440p graphics performance
-      - pro: Good design.
-      - pro: Its silent and cool
-      - pro: Excellent for 1440p gaming.
-    cons:
-      - con: Inadequate overclocking potential
-      - con: Memory capacity of 8GB
+  - summary_award: zxc
     paragraphs:
       - paragraph: >-
           <!--StartFragment-->
@@ -152,6 +138,23 @@ the_products:
 
 
           <!--EndFragment-->
+    pros:
+      - pro: Great mid-range 1440p graphics performance
+      - pro: Good design.
+      - pro: Its silent and cool
+      - pro: Excellent for 1440p gaming.
+    amzlink: https://amzn.to/37o9e21
+    nameForTOC: qwe
+    name: NVIDIA RTX 3060 Ti
+    specifications:
+      - specification: "**Bus Standard:** PCI Express 4.0 **\\|** **Video Memory:** 8GB
+          GDDR6 **\\|** **Memory Interface:** 256-bit Power **\\| Connectors:**
+          1 x 8-pin **\\|** **Maximum Display Support:** 4"
+    cons:
+      - con: Inadequate overclocking potential
+      - con: Memory capacity of 8GB
+    image: /uploads/nvidia-rtx-3060-ti.webp
+    award: asd
   - name: AMD Radeon RX 6800 XT Graphics
     image: /uploads/amd-radeon-rx-6800-xt-graphics.webp
     paragraphs:
