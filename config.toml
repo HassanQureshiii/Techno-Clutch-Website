@@ -1,7 +1,7 @@
 languageCode = "en-us"
 DisqusShortname = ""
 baseURL = "https://technoclutch.com"
-googleAnalytics = ""
+googleAnalytics = "<!-- Global site tag (gtag.js) - Google Analytics --> <script async src=\"https://www.googletagmanager.com/gtag/js?id=G-L6ZB39BLEG\"></script> <script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'G-L6ZB39BLEG'); </script>"
 title = "Techno Clutch"
 paginate = "14"
 assetDir = "static"
