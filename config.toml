@@ -1,6 +1,6 @@
 languageCode = "en-us"
 DisqusShortname = "gaming-techies"
-baseURL = "https://gamingtechies.com"
+baseURL = "https://technoclutchdev.netlify.app"
 googleAnalytics = ""
 title = "Gaming Techies"
 paginate = "14"
